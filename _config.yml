@@ -1,1 +1,9 @@
+# Site settings
+title: pupu
+author:
+  name: Sebastian Deniz
+  email: sebasdeniz01@gmail.com
+description: "summaries."
 
+# Build settings
+remote_theme: jekyll/Leap day
