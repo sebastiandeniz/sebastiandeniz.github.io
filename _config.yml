@@ -5,5 +5,6 @@ author:
   email: sebasdeniz01@gmail.com
 description: "summaries."
 
-# Build settings
-remote_theme: jekyll/Leap day
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
