@@ -1,3 +1,8 @@
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 # Atomic habits
 "Atomic Habits" is a bestselling self-help book by James Clear that offers a practical and science-based approach to building good habits and breaking bad ones. The book emphasizes the importance of making small, incremental changes that accumulate over time to create significant improvements in one's life. Clear introduces the four laws of behavior change and provides actionable strategies for implementing them, such as habit stacking, temptation bundling, and creating an environment that supports good habits. The book also discusses the role of identity in habit formation and provides guidance on how to align one's habits with their desired identity. Overall, "Atomic Habits" is a comprehensive and practical guide for anyone looking to improve their habits and achieve their goals.
 ## Chapter 1
