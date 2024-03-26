@@ -1,1 +1,1 @@
-sebastiandeniz.github.io
+https://sebastiandeniz.github.io/
